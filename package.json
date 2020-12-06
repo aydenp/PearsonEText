@@ -1,0 +1,22 @@
+{
+  "name": "pearsonetext",
+  "version": "1.0.0",
+  "description": "download your textbooks as PDF",
+  "main": "src/index.js",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "lodash": "^4.17.20",
+    "pdf-lib": "^1.12.0",
+    "rimraf": "^3.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aydenp/PearsonEText.git"
+  },
+  "author": "Ayden Panhuyzen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aydenp/PearsonEText/issues"
+  },
+  "homepage": "https://github.com/aydenp/PearsonEText#readme"
+}
