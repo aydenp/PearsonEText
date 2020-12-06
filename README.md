@@ -42,6 +42,8 @@ Study how you want, when you want, and on whichever device you want. Download it
 
 ![Screenshot of Step 12](/images/step12.png)
 
+13. Run the script in a terminal by typing `node .` in the directory of this repository. It will download the pages of your textbook and merge them into one big PDF!
+
 ## Reporting Issues
 
 If you find a bug or code issue, report it on the [issues page](https://github.com/aydenp/PearsonEText/issues). Keep in mind that this is for actual bugs in the code. If you need help getting started and the above tutorial isn't helping, reach out to me using the email on [my website](https://ayden.dev)!
